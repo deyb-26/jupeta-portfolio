@@ -31,7 +31,7 @@ const Contact = () => {
           <h5 className="md:hidden text-cyan-300 text-lg font-medium mt-4 pb-5">
             Contact Form
           </h5>
-          <form className="flex flex-col" action= "formsparks_link_here">
+          <form className="flex flex-col" action= "https://submit-form.com/afCuJNpIz">
             <input
               type="text"
               name="fullname"

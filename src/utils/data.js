@@ -1,10 +1,10 @@
 export const PROFILE_DATA = {
   profilePicture: "https://via.placeholder.com/150",
-  name: "Kai Rodriguez",
-  tagline: `A full-stack developer passionate about creating innovative solutions and bridging technology with user-centric design.`,
-  jobTitle: "Senior Software Engineer",
-  location: "San Francisco, CA",
-  yearsOfExperience: 6,
+  name: "Francis Dave Brina",
+  tagline: `A full-stack developer and  Filipino Mukbanger.`,
+  jobTitle: "Junior Sofware Engineer ",
+  location: "mercury, Davao",
+  yearsOfExperience: 2,
   skills: [
     "Python",
     "Django",
@@ -19,7 +19,7 @@ export const PROFILE_DATA = {
     "SQL",
     "CI/CD",
   ],
-  email: "kai.rodriguez@techpro.com",
+  email: "davebrina262003@gmailx",
   phone: "415-789-1234",
   website: "https://www.linkedin.com/in/kairodriguez/",
 };
@@ -88,16 +88,16 @@ export const WORK_EXPERIENCE = [
 ];
 
 export const ABOUT_ME_DATA = {
-  introduction: "Hello! I'm Kai Rodriguez, a versatile software engineer with a passion for solving complex technological challenges and creating innovative digital solutions.",
-  background: "With a Master's degree in Computer Science from Stanford University, I've developed a strong foundation in software engineering principles and emerging technologies.",
-  skills: "My technical expertise spans full-stack development, cloud computing, and advanced programming paradigms. I specialize in creating scalable, efficient, and user-friendly software solutions.",
+  introduction: "Hello! I'm Dave Brina, a versatile software engineer with a passion of a Food Mukbanger.",
+  background: "With a Master's degree in Computer Science from Jupeta University , I've built a solid understanding of software engineering concepts and the latest technological advancements.",
+  skills:   "My technikals skills encompass full-stack developlment,and advanced programming methodologies.I focus on building scalable, efficient and user-centric  .",
   projects: "Notable projects include a machine learning-powered recommendation system, a real-time collaboration platform, and a distributed data processing framework that improved system efficiency by 40%.",
   interests: "Beyond coding, I'm an avid rock climber, amateur photographer, and enjoy exploring the intersection of technology and sustainable design. I'm also passionate about mentoring young developers.",
-  careerGoals: "My objective is to continue pushing the boundaries of software engineering, contribute to meaningful technological innovations, and make a positive impact through technology.",
+      careerGoals: "My goal is to keep advancing the field of software engineering , contribute to significant technologies innovation, and create a positive impact through tecnology.",
 
   stats: {
-    yearsOfExperience: '6+',
-    numberOfProjects: 15,
-    certificationsEarned: 6,
+    yearsOfExperience: '2+',
+    numberOfProjects: 4,
+    certificationsEarned: 3,
   },
-};
+};2

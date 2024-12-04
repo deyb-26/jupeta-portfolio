@@ -1,7 +1,7 @@
 import React from "react";
 import { ABOUT_ME_DATA } from "../utils/data";
 
-import PROFILE_PIC from "../assets/Temporary_Profile.jpg";
+const PROFILE_PIC = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15qUK4MSzfj4pF4_kMmp_Vskh8VRSsKl0iw&s";
 
 const AboutMe = () => {
   return (

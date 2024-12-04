@@ -26,7 +26,7 @@ const Hero = () => {
     >
       <div className="flex-1 text-center md:text-left z-[1]">
         <span className="text-xs md:text-sm text-black font-thin">
-          A Bubble.io Developer
+          XD developer 
         </span>
 
         <h2 className="text-3xl mt-3 md:text-5xl text-black md:mt-5">{name}</h2>
@@ -41,7 +41,7 @@ const Hero = () => {
       <div className="flex gap-5 justify-center md:gap-3 lg:gap-5 z-[1]">
         <div className="w-[403px] bg-gradient-to-br from-white-950 to-slate-900 rounded-lg border border-white-950 p-6">
           <div className="flex items-center justify-center">
-            <img className="hero-img" src={PROFILE_PIC} alt="img one" />
+            <img className="hero-img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15qUK4MSzfj4pF4_kMmp_Vskh8VRSsKl0iw&s" alt="img one" />
           </div>
 
           <div className="bg-cardbg rounded-md text-center mt-3 p-4 ">
