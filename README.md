@@ -36,3 +36,4 @@ To get started with this template, follow these steps:
 git clone https://github.com/Alteyae/reactjs-portfolio.git
 
 # reactjs-portfolio
+# jupeta-portfolio
